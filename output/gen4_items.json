@@ -1,0 +1,3655 @@
+[
+  {
+    "id": 0,
+    "name": "Berserk Gene",
+    "chineseName": "破坏基因",
+    "generation": 2,
+    "desc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
+    "chineseDesc": "（Gen 2）打开开关，将持牌人的攻击力提高2并混淆。一次性使用。",
+    "shortDesc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
+    "chineseShortDesc": "（Gen 2）打开开关，将持牌人的攻击力提高2并混淆。一次性使用。",
+    "isBerry": false,
+    "isNonstandard": null,
+    "boosts": {
+      "atk": 2
+    }
+  },
+  {
+    "id": 1,
+    "name": "Master Ball",
+    "chineseName": "大师球",
+    "generation": 1,
+    "desc": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
+    "chineseDesc": "具有终极性能的最佳球。它可以捕捉任何野生的口袋妖怪。",
+    "shortDesc": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
+    "chineseShortDesc": "具有终极性能的最佳球。它可以捕捉任何野生的口袋妖怪。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 2,
+    "name": "Ultra Ball",
+    "chineseName": "高级球",
+    "generation": 1,
+    "desc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
+    "chineseDesc": "一种超高性能的球，其接球率高于大球。",
+    "shortDesc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
+    "chineseShortDesc": "一种超高性能的球，其接球率高于大球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 3,
+    "name": "Great Ball",
+    "chineseName": "超级球",
+    "generation": 1,
+    "desc": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
+    "chineseDesc": "一种高性能的球，其接球率高于口袋球。",
+    "shortDesc": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
+    "chineseShortDesc": "一种高性能的球，其接球率高于口袋球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 4,
+    "name": "Poke Ball",
+    "chineseName": "Poke Ball",
+    "generation": 1,
+    "desc": "A device for catching wild Pokemon. It is designed as a capsule system.",
+    "chineseDesc": "捕捉野生口袋妖怪的装置。它被设计成一个胶囊系统。",
+    "shortDesc": "A device for catching wild Pokemon. It is designed as a capsule system.",
+    "chineseShortDesc": "捕捉野生口袋妖怪的装置。它被设计成一个胶囊系统。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 5,
+    "name": "Safari Ball",
+    "chineseName": "狩猎球",
+    "generation": 1,
+    "desc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
+    "chineseDesc": "一种只在野生动物园和大沼泽使用的特殊口袋球。",
+    "shortDesc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
+    "chineseShortDesc": "一种只在野生动物园和大沼泽使用的特殊口袋球。",
+    "isBerry": false,
+    "isNonstandard": "Unobtainable"
+  },
+  {
+    "id": 6,
+    "name": "Net Ball",
+    "chineseName": "捕网球",
+    "generation": 3,
+    "desc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
+    "chineseDesc": "一个在水和虫子类型的口袋妖怪上特别有效的口袋妖怪。",
+    "shortDesc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
+    "chineseShortDesc": "一个在水和虫子类型的口袋妖怪上特别有效的口袋妖怪。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 7,
+    "name": "Dive Ball",
+    "chineseName": "潜水球",
+    "generation": 3,
+    "desc": "A Poke Ball that works especially well on Pokemon that live underwater.",
+    "chineseDesc": "一种对生活在水下的口袋妖怪特别有效的口袋球。",
+    "shortDesc": "A Poke Ball that works especially well on Pokemon that live underwater.",
+    "chineseShortDesc": "一种对生活在水下的口袋妖怪特别有效的口袋球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 8,
+    "name": "Nest Ball",
+    "chineseName": "巢穴球",
+    "generation": 3,
+    "desc": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
+    "chineseDesc": "一种在野外对较弱的口袋妖怪特别有效的口袋球。",
+    "shortDesc": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
+    "chineseShortDesc": "一种在野外对较弱的口袋妖怪特别有效的口袋球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 9,
+    "name": "Repeat Ball",
+    "chineseName": "重复球",
+    "generation": 3,
+    "desc": "A Poke Ball that works well on Pokemon species that were previously caught.",
+    "chineseDesc": "一种对以前捕获的口袋妖怪物种效果很好的口袋妖怪球。",
+    "shortDesc": "A Poke Ball that works well on Pokemon species that were previously caught.",
+    "chineseShortDesc": "一种对以前捕获的口袋妖怪物种效果很好的口袋妖怪球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 10,
+    "name": "Timer Ball",
+    "chineseName": "计时球",
+    "generation": 3,
+    "desc": "A Poke Ball that becomes better the more turns there are in a battle.",
+    "chineseDesc": "一个口袋球，在战斗中转弯越多越好。",
+    "shortDesc": "A Poke Ball that becomes better the more turns there are in a battle.",
+    "chineseShortDesc": "一个口袋球，在战斗中转弯越多越好。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 11,
+    "name": "Luxury Ball",
+    "chineseName": "豪华球",
+    "generation": 3,
+    "desc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
+    "chineseDesc": "一个舒适的口袋妖怪球，让一只被抓到的野生口袋妖怪迅速变得友好。",
+    "shortDesc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
+    "chineseShortDesc": "一个舒适的口袋妖怪球，让一只被抓到的野生口袋妖怪迅速变得友好。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 12,
+    "name": "Premier Ball",
+    "chineseName": "纪念球",
+    "generation": 3,
+    "desc": "A rare Poke Ball that has been crafted to commemorate an event.",
+    "chineseDesc": "为纪念某一事件而制作的罕见扑克。",
+    "shortDesc": "A rare Poke Ball that has been crafted to commemorate an event.",
+    "chineseShortDesc": "为纪念某一事件而制作的罕见扑克。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 13,
+    "name": "Dusk Ball",
+    "chineseName": "黑暗球",
+    "generation": 4,
+    "desc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
+    "chineseDesc": "一种口袋球，可以在晚上或洞穴里更容易地捕捉到野生口袋妖怪。",
+    "shortDesc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
+    "chineseShortDesc": "一种口袋球，可以在晚上或洞穴里更容易地捕捉到野生口袋妖怪。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 14,
+    "name": "Heal Ball",
+    "chineseName": "治愈球",
+    "generation": 4,
+    "desc": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem.",
+    "chineseDesc": "一个补救性的口袋妖怪球，可以恢复被捕获的口袋妖怪的生命值和状态问题。",
+    "shortDesc": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem.",
+    "chineseShortDesc": "一个补救性的口袋妖怪球，可以恢复被捕获的口袋妖怪的生命值和状态问题。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 15,
+    "name": "Quick Ball",
+    "chineseName": "先机球",
+    "generation": 4,
+    "desc": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
+    "chineseDesc": "一种在野外相遇开始时提供更好捕获率的口袋球。",
+    "shortDesc": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
+    "chineseShortDesc": "一种在野外相遇开始时提供更好捕获率的口袋球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 16,
+    "name": "Cherish Ball",
+    "chineseName": "贵重球",
+    "generation": 4,
+    "desc": "A rare Poke Ball that has been crafted to commemorate an occasion.",
+    "chineseDesc": "一个罕见的扑克，是为了纪念某个时刻而制作的。",
+    "shortDesc": "A rare Poke Ball that has been crafted to commemorate an occasion.",
+    "chineseShortDesc": "一个罕见的扑克，是为了纪念某个时刻而制作的。",
+    "isBerry": false,
+    "isNonstandard": "Unobtainable"
+  },
+  {
+    "id": 43,
+    "name": "Berry Juice",
+    "chineseName": "树果汁",
+    "generation": 2,
+    "desc": "Restores 20 HP when at 1/2 max HP or less. Single use.",
+    "chineseDesc": "当最大生命值为1/2或更低时，恢复20生命值。一次性使用",
+    "shortDesc": "Restores 20 HP when at 1/2 max HP or less. Single use.",
+    "chineseShortDesc": "当最大生命值为1/2或更低时，恢复20生命值。一次性使用",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 80,
+    "name": "Sun Stone",
+    "chineseName": "日之石",
+    "generation": 2,
+    "desc": "Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, and Helioptile into Heliolisk when used.",
+    "chineseDesc": "使用时，将Gloom演变为Bellosom，将Sunkern演变为Sunflora，将Cottonee演变为Whimsicott，将Petitil演变为Lilligant，将Helioptile演变为Heliolisk。",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "chineseShortDesc": "使用时进化出某些种类的口袋妖怪。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 81,
+    "name": "Moon Stone",
+    "chineseName": "月之石",
+    "generation": 1,
+    "desc": "Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Skitty into Delcatty, and Munna into Musharna when used.",
+    "chineseDesc": "使用时，将Nidorina演变为Nidoqueen，Nidorino演变为Nidoking，Clefairy演变为Clefabile，Jigglypuff演变为Wigglytuff，Skitty演变为Delcatty，Munna演变为Musharna。",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "chineseShortDesc": "使用时进化出某些种类的口袋妖怪。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 82,
+    "name": "Fire Stone",
+    "chineseName": "火之石",
+    "generation": 1,
+    "desc": "Evolves Vulpix into Ninetales, Growlithe into Arcanine, Eevee into Flareon, and Pansear into Simisear when used.",
+    "chineseDesc": "使用时，将Vulpix进化为Ninetales，Growlite进化为Arcanine，Eevee进化为Flareon，Pansear进化为Simiser。",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "chineseShortDesc": "使用时进化出某些种类的口袋妖怪。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 83,
+    "name": "Thunder Stone",
+    "chineseName": "雷之石",
+    "generation": 1,
+    "desc": "Evolves Pikachu into Raichu or Alolan Raichu, Eevee into Jolteon, and Eelektrik into Eelektross when used.",
+    "chineseDesc": "使用时，将皮卡丘进化为Raichu或Alolan Raichu，将Eevee进化为Jolteon，将Eelektrik进化为Eelektros。",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "chineseShortDesc": "使用时进化出某些种类的口袋妖怪。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 84,
+    "name": "Water Stone",
+    "chineseName": "水之石",
+    "generation": 1,
+    "desc": "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used.",
+    "chineseDesc": "当使用时，将Poliswire进化为Polirish，Shellder进化为Cloyster，Staryu进化为Starmie，Eevee进化为Vaporeon，Lombre进化为Ludicolo，Panpour进化为Simipour。",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "chineseShortDesc": "使用时进化出某些种类的口袋妖怪。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 85,
+    "name": "Leaf Stone",
+    "chineseName": "叶之石",
+    "generation": 1,
+    "desc": "Evolves Gloom into Vileplume, Weepinbell into Victreebel, Exeggcute into Exeggutor or Alolan Exeggutor, Nuzleaf into Shiftry, and Pansage into Simisage when used.",
+    "chineseDesc": "使用时，将Gloom演变为Vileplume，将Weepibell演变为Victrebel，将Exeggute演变为Exeggutor或Alolan Exegguutor，将Nuzleaf演变为Shiftry，将Pansage演变为Simisage。",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "chineseShortDesc": "使用时进化出某些种类的口袋妖怪。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 99,
+    "name": "Root Fossil",
+    "chineseName": "根状化石",
+    "generation": 3,
+    "desc": "Can be revived into Lileep.",
+    "chineseDesc": "可以在Lileep中复活。",
+    "shortDesc": "Can be revived into Lileep.",
+    "chineseShortDesc": "可以在Lileep中复活。",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 100,
+    "name": "Claw Fossil",
+    "chineseName": "爪子化石",
+    "generation": 3,
+    "desc": "Can be revived into Anorith.",
+    "chineseDesc": "可以复活到Anorith。",
+    "shortDesc": "Can be revived into Anorith.",
+    "chineseShortDesc": "可以复活到Anorith。",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 101,
+    "name": "Helix Fossil",
+    "chineseName": "贝壳化石",
+    "generation": 3,
+    "desc": "Can be revived into Omanyte.",
+    "chineseDesc": "可以复活到阿曼特。",
+    "shortDesc": "Can be revived into Omanyte.",
+    "chineseShortDesc": "可以复活到阿曼特。",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 102,
+    "name": "Dome Fossil",
+    "chineseName": "甲壳化石",
+    "generation": 3,
+    "desc": "Can be revived into Kabuto.",
+    "chineseDesc": "可以复活到Kabuto。",
+    "shortDesc": "Can be revived into Kabuto.",
+    "chineseShortDesc": "可以复活到Kabuto。",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 103,
+    "name": "Old Amber",
+    "chineseName": "秘密琥珀",
+    "generation": 3,
+    "desc": "Can be revived into Aerodactyl.",
+    "chineseDesc": "可以复活为Aerodactyl。",
+    "shortDesc": "Can be revived into Aerodactyl.",
+    "chineseShortDesc": "可以复活为Aerodactyl。",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 104,
+    "name": "Armor Fossil",
+    "chineseName": "盾甲化石",
+    "generation": 4,
+    "desc": "Can be revived into Shieldon.",
+    "chineseDesc": "可以复活到希尔登。",
+    "shortDesc": "Can be revived into Shieldon.",
+    "chineseShortDesc": "可以复活到希尔登。",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 105,
+    "name": "Skull Fossil",
+    "chineseName": "头盖化石",
+    "generation": 4,
+    "desc": "Can be revived into Cranidos.",
+    "chineseDesc": "可以复活成Cranidos。",
+    "shortDesc": "Can be revived into Cranidos.",
+    "chineseShortDesc": "可以复活成Cranidos。",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 106,
+    "name": "Rare Bone",
+    "chineseName": "贵重骨头",
+    "generation": 4,
+    "desc": "No competitive use other than when used with Fling.",
+    "chineseDesc": "除了与Fling一起使用外，没有其他竞争用途。",
+    "shortDesc": "No competitive use other than when used with Fling.",
+    "chineseShortDesc": "除了与Fling一起使用外，没有其他竞争用途。",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 107,
+    "name": "Shiny Stone",
+    "chineseName": "光之石",
+    "generation": 4,
+    "desc": "Evolves Togetic into Togekiss, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.",
+    "chineseDesc": "使用时，Togetic演变为Togekiss，Roselia演变为Roserade，Minccino演变为Cincino，Floette演变为Florges。",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "chineseShortDesc": "使用时进化出某些种类的口袋妖怪。",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 108,
+    "name": "Dusk Stone",
+    "chineseName": "暗之石",
+    "generation": 4,
+    "desc": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, and Doublade into Aegislash when used.",
+    "chineseDesc": "使用时，将Murkrow演变为Honchkrow，将Misdreavus演变为Mismagius，将Lampent演变为Chandlure，将Doublade演变为Aegislash。",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "chineseShortDesc": "使用时进化出某些种类的口袋妖怪。",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 109,
+    "name": "Dawn Stone",
+    "chineseName": "觉醒之石",
+    "generation": 4,
+    "desc": "Evolves male Kirlia into Gallade and female Snorunt into Froslass when used.",
+    "chineseDesc": "使用时，雄性Kirlia会进化为Gallade，雌性Snorunt会进化为Froslass。",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "chineseShortDesc": "使用时进化出某些种类的口袋妖怪。",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 110,
+    "name": "Oval Stone",
+    "chineseName": "浑圆之石",
+    "generation": 4,
+    "desc": "Evolves Happiny into Chansey when held and leveled up during the day.",
+    "chineseDesc": "当白天被抱起并调平时，将Happiny变成Chansey。",
+    "shortDesc": "Evolves Happiny into Chansey when held and leveled up during the day.",
+    "chineseShortDesc": "当白天被抱起并调平时，将Happiny变成Chansey。",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 112,
+    "name": "Griseous Orb",
+    "chineseName": "白金宝珠",
+    "generation": 4,
+    "desc": "Can only be held by Giratina. Its Ghost- & Dragon-type attacks have 1.2x power.",
+    "chineseDesc": "只能由Giratina持有。它的幽灵和龙型攻击具有1.2倍的威力。",
+    "shortDesc": "Can only be held by Giratina. Its Ghost- & Dragon-type attacks have 1.2x power.",
+    "chineseShortDesc": "只能由Giratina持有。它的幽灵和龙型攻击具有1.2倍的威力。",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Giratina-Origin"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Adamant Orb",
+    "chineseName": "金刚宝珠",
+    "generation": 4,
+    "desc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+    "chineseDesc": "如果被迪亚加持有，其钢铁和龙型攻击的威力是1.2倍。",
+    "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+    "chineseShortDesc": "如果被迪亚加持有，其钢铁和龙型攻击的威力是1.2倍。",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Dialga"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Lustrous Orb",
+    "chineseName": "白玉宝珠",
+    "generation": 4,
+    "desc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
+    "chineseDesc": "如果被Palkia持有，它的水和龙型攻击的威力是1.2倍。",
+    "shortDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
+    "chineseShortDesc": "如果被Palkia持有，它的水和龙型攻击的威力是1.2倍。",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Palkia"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Mail",
+    "chineseName": "邮件",
+    "generation": 2,
+    "desc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
+    "chineseDesc": "不能给口袋妖怪或从口袋妖怪身上拿走，除非被Covet/KnockOff/Thief拿走。",
+    "shortDesc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
+    "chineseShortDesc": "不能给口袋妖怪或从口袋妖怪身上拿走，除非被Covet/KnockOff/Thief拿走。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 149,
+    "name": "PRZ Cure Berry",
+    "chineseName": "PRZ Cure Berry",
+    "generation": 2,
+    "desc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
+    "chineseDesc": "（第2代）如果霍尔德瘫痪，他会自行治愈。一次性使用",
+    "shortDesc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
+    "chineseShortDesc": "（第2代）如果霍尔德瘫痪，他会自行治愈。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Fire"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 149,
+    "name": "Cheri Berry",
+    "chineseName": "樱子果",
+    "generation": 3,
+    "desc": "Holder cures itself if it is paralyzed. Single use.",
+    "chineseDesc": "如果霍尔德瘫痪了，他会自愈。一次性使用",
+    "shortDesc": "Holder cures itself if it is paralyzed. Single use.",
+    "chineseShortDesc": "如果霍尔德瘫痪了，他会自愈。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Fire"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 150,
+    "name": "Mint Berry",
+    "chineseName": "薄荷的果实",
+    "generation": 2,
+    "desc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
+    "chineseDesc": "（第2代）如果霍尔德睡着了，它就会醒来。一次性使用",
+    "shortDesc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
+    "chineseShortDesc": "（第2代）如果霍尔德睡着了，它就会醒来。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Water"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 150,
+    "name": "Chesto Berry",
+    "chineseName": "零余果",
+    "generation": 3,
+    "desc": "Holder wakes up if it is asleep. Single use.",
+    "chineseDesc": "霍尔德睡着了就醒了。一次性使用",
+    "shortDesc": "Holder wakes up if it is asleep. Single use.",
+    "chineseShortDesc": "霍尔德睡着了就醒了。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Water"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 151,
+    "name": "PSN Cure Berry",
+    "chineseName": "PSN Cure Berry",
+    "generation": 2,
+    "desc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
+    "chineseDesc": "（第2代）如果持有人中毒，则可以治愈。一次性使用",
+    "shortDesc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
+    "chineseShortDesc": "（第2代）如果持有人中毒，则可以治愈。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Electric"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 151,
+    "name": "Pecha Berry",
+    "chineseName": "桃桃果",
+    "generation": 3,
+    "desc": "Holder is cured if it is poisoned. Single use.",
+    "chineseDesc": "若持有者中毒，则可治愈。一次性使用",
+    "shortDesc": "Holder is cured if it is poisoned. Single use.",
+    "chineseShortDesc": "若持有者中毒，则可治愈。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Electric"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 152,
+    "name": "Ice Berry",
+    "chineseName": "冰冻的果实",
+    "generation": 2,
+    "desc": "(Gen 2) Holder is cured if it is burned. Single use.",
+    "chineseDesc": "（Gen 2）如果支架被烧毁，则会被固化。一次性使用",
+    "shortDesc": "(Gen 2) Holder is cured if it is burned. Single use.",
+    "chineseShortDesc": "（Gen 2）如果支架被烧毁，则会被固化。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Grass"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 152,
+    "name": "Rawst Berry",
+    "chineseName": "莓莓果",
+    "generation": 3,
+    "desc": "Holder is cured if it is burned. Single use.",
+    "chineseDesc": "如果支架被烧伤，它就会被治愈。一次性使用",
+    "shortDesc": "Holder is cured if it is burned. Single use.",
+    "chineseShortDesc": "如果支架被烧伤，它就会被治愈。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Grass"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 153,
+    "name": "Burnt Berry",
+    "chineseName": "烧烤的果实",
+    "generation": 2,
+    "desc": "(Gen 2) Holder is cured if it is frozen. Single use.",
+    "chineseDesc": "（第2代）如果冷冻，支架就会固化。一次性使用",
+    "shortDesc": "(Gen 2) Holder is cured if it is frozen. Single use.",
+    "chineseShortDesc": "（第2代）如果冷冻，支架就会固化。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Ice"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 153,
+    "name": "Aspear Berry",
+    "chineseName": "利木果",
+    "generation": 3,
+    "desc": "Holder is cured if it is frozen. Single use.",
+    "chineseDesc": "如果冷冻，支架就会固化。一次性使用",
+    "shortDesc": "Holder is cured if it is frozen. Single use.",
+    "chineseShortDesc": "如果冷冻，支架就会固化。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ice"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 154,
+    "name": "Mystery Berry",
+    "chineseName": "Mystery Berry",
+    "generation": 2,
+    "desc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
+    "chineseDesc": "（第2代）将持牌人的第一步移动恢复5点，达到0点。一次性使用。",
+    "shortDesc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
+    "chineseShortDesc": "（第2代）将持牌人的第一步移动恢复5点，达到0点。一次性使用。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Fighting"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 154,
+    "name": "Leppa Berry",
+    "chineseName": "苹野果",
+    "generation": 3,
+    "desc": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.",
+    "chineseDesc": "将持牌人的第一次移动恢复10 PP，达到0 PP。一次性使用。",
+    "shortDesc": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.",
+    "chineseShortDesc": "将持牌人的第一次移动恢复10 PP，达到0 PP。一次性使用。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Fighting"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 155,
+    "name": "Berry",
+    "chineseName": "树果",
+    "generation": 2,
+    "desc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
+    "chineseDesc": "（第2代）在最大生命值为1/2或更低时恢复10生命值。一次性使用",
+    "shortDesc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
+    "chineseShortDesc": "（第2代）在最大生命值为1/2或更低时恢复10生命值。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Poison"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 155,
+    "name": "Oran Berry",
+    "chineseName": "橙橙果",
+    "generation": 3,
+    "desc": "Restores 10 HP when at 1/2 max HP or less. Single use.",
+    "chineseDesc": "当最大HP为1/2或更低时，恢复10 HP。一次性使用",
+    "shortDesc": "Restores 10 HP when at 1/2 max HP or less. Single use.",
+    "chineseShortDesc": "当最大HP为1/2或更低时，恢复10 HP。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Poison"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 156,
+    "name": "Bitter Berry",
+    "chineseName": "苦涩的果实",
+    "generation": 2,
+    "desc": "(Gen 2) Holder is cured if it is confused. Single use.",
+    "chineseDesc": "（第2代）如果持有人感到困惑，则可以治愈。一次性使用",
+    "shortDesc": "(Gen 2) Holder is cured if it is confused. Single use.",
+    "chineseShortDesc": "（第2代）如果持有人感到困惑，则可以治愈。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Ground"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 156,
+    "name": "Persim Berry",
+    "chineseName": "柿仔果",
+    "generation": 3,
+    "desc": "Holder is cured if it is confused. Single use.",
+    "chineseDesc": "如果持有者感到困惑，则可以治愈。一次性使用",
+    "shortDesc": "Holder is cured if it is confused. Single use.",
+    "chineseShortDesc": "如果持有者感到困惑，则可以治愈。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ground"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 157,
+    "name": "Miracle Berry",
+    "chineseName": "Miracle Berry",
+    "generation": 2,
+    "desc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
+    "chineseDesc": "（第2代）如果持有人感到困惑或有状态问题，他会自行治愈。一次性使用",
+    "shortDesc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
+    "chineseShortDesc": "（第2代）如果持有人感到困惑或有状态问题，他会自行治愈。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Flying"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 157,
+    "name": "Lum Berry",
+    "chineseName": "木子果",
+    "generation": 3,
+    "desc": "Holder cures itself if it has a non-volatile status or is confused. Single use.",
+    "chineseDesc": "如果持有人处于非易失性状态或感到困惑，则可以自行治愈。一次性使用",
+    "shortDesc": "Holder cures itself if it has a non-volatile status or is confused. Single use.",
+    "chineseShortDesc": "如果持有人处于非易失性状态或感到困惑，则可以自行治愈。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Flying"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 158,
+    "name": "Gold Berry",
+    "chineseName": "果实",
+    "generation": 2,
+    "desc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
+    "chineseDesc": "（第2代）在最大生命值为1/2或更低时恢复30生命值。一次性使用",
+    "shortDesc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
+    "chineseShortDesc": "（第2代）在最大生命值为1/2或更低时恢复30生命值。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Psychic"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 158,
+    "name": "Sitrus Berry",
+    "chineseName": "文柚果",
+    "generation": 3,
+    "desc": "Restores 30 HP when at 1/2 max HP or less. Single use.",
+    "chineseDesc": "当最大生命值为1/2或更低时，恢复30生命值。一次性使用",
+    "shortDesc": "Restores 30 HP when at 1/2 max HP or less. Single use.",
+    "chineseShortDesc": "当最大生命值为1/2或更低时，恢复30生命值。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Psychic"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 159,
+    "name": "Figy Berry",
+    "chineseName": "勿花果",
+    "generation": 3,
+    "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Atk Nature. Single use.",
+    "chineseDesc": "在最大生命值的1/2或更低时恢复1/8最大生命值；混淆如果-Atk自然。一次性使用",
+    "shortDesc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Atk Nature. Single use.",
+    "chineseShortDesc": "在最大生命值的1/2或更低时恢复1/8最大生命值；混淆如果-Atk自然。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Bug"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 160,
+    "name": "Wiki Berry",
+    "chineseName": "异奇果",
+    "generation": 3,
+    "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -SpA Nature. Single use.",
+    "chineseDesc": "在最大生命值的1/2或更低时恢复1/8最大生命值；混淆if-SpA自然。一次性使用",
+    "shortDesc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -SpA Nature. Single use.",
+    "chineseShortDesc": "在最大生命值的1/2或更低时恢复1/8最大生命值；混淆if-SpA自然。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Rock"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 161,
+    "name": "Mago Berry",
+    "chineseName": "芒芒果",
+    "generation": 3,
+    "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Spe Nature. Single use.",
+    "chineseDesc": "在最大生命值的1/2或更低时恢复1/8最大生命值；混淆了if-Spe Nature。一次性使用",
+    "shortDesc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Spe Nature. Single use.",
+    "chineseShortDesc": "在最大生命值的1/2或更低时恢复1/8最大生命值；混淆了if-Spe Nature。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ghost"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 162,
+    "name": "Aguav Berry",
+    "chineseName": "乐芭果",
+    "generation": 3,
+    "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -SpD Nature. Single use.",
+    "chineseDesc": "在最大生命值的1/2或更低时恢复1/8最大生命值；如果SpD Nature混淆。一次性使用",
+    "shortDesc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -SpD Nature. Single use.",
+    "chineseShortDesc": "在最大生命值的1/2或更低时恢复1/8最大生命值；如果SpD Nature混淆。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Dragon"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 163,
+    "name": "Iapapa Berry",
+    "chineseName": "芭亚果",
+    "generation": 3,
+    "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Def Nature. Single use.",
+    "chineseDesc": "在最大生命值的1/2或更低时恢复1/8最大生命值；如果违背自然，就会感到困惑。一次性使用",
+    "shortDesc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Def Nature. Single use.",
+    "chineseShortDesc": "在最大生命值的1/2或更低时恢复1/8最大生命值；如果违背自然，就会感到困惑。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Dark"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 164,
+    "name": "Razz Berry",
+    "chineseName": "蔓莓果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Steel"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 165,
+    "name": "Bluk Berry",
+    "chineseName": "墨莓果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Fire"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 166,
+    "name": "Nanab Berry",
+    "chineseName": "蕉香果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Water"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 167,
+    "name": "Wepear Berry",
+    "chineseName": "西梨果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Electric"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 168,
+    "name": "Pinap Berry",
+    "chineseName": "凰梨果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Grass"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 169,
+    "name": "Pomeg Berry",
+    "chineseName": "榴石果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Ice"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 170,
+    "name": "Kelpsy Berry",
+    "chineseName": "藻根果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Fighting"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 171,
+    "name": "Qualot Berry",
+    "chineseName": "比巴果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Poison"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 172,
+    "name": "Hondew Berry",
+    "chineseName": "哈密果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Ground"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 173,
+    "name": "Grepa Berry",
+    "chineseName": "萄葡果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Flying"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 174,
+    "name": "Tamato Berry",
+    "chineseName": "茄番果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Psychic"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 175,
+    "name": "Cornn Berry",
+    "chineseName": "玉黍果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Bug"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 176,
+    "name": "Magost Berry",
+    "chineseName": "岳竹果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Rock"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 177,
+    "name": "Rabuta Berry",
+    "chineseName": "茸丹果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Ghost"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 178,
+    "name": "Nomel Berry",
+    "chineseName": "檬柠果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Dragon"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 179,
+    "name": "Spelon Berry",
+    "chineseName": "刺角果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Dark"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 180,
+    "name": "Pamtre Berry",
+    "chineseName": "椰木果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Steel"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 181,
+    "name": "Watmel Berry",
+    "chineseName": "瓜西果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Fire"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 182,
+    "name": "Durin Berry",
+    "chineseName": "金枕果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Water"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 183,
+    "name": "Belue Berry",
+    "chineseName": "靛莓果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "chineseShortDesc": "不能被持有者吃掉。与虫咬或长毛绒一起食用时没有效果。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Electric"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 184,
+    "name": "Occa Berry",
+    "chineseName": "巧可果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Fire-type attack. Single use.",
+    "chineseDesc": "将超高效火力攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Fire-type attack. Single use.",
+    "chineseShortDesc": "将超高效火力攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Fire"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 185,
+    "name": "Passho Berry",
+    "chineseName": "千香果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Water-type attack. Single use.",
+    "chineseDesc": "将超高效水型攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Water-type attack. Single use.",
+    "chineseShortDesc": "将超高效水型攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Water"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 186,
+    "name": "Wacan Berry",
+    "chineseName": "烛木果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Electric-type attack. Single use.",
+    "chineseDesc": "将超高效的电动攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Electric-type attack. Single use.",
+    "chineseShortDesc": "将超高效的电动攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Electric"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 187,
+    "name": "Rindo Berry",
+    "chineseName": "罗子果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Grass-type attack. Single use.",
+    "chineseDesc": "将超高效草类攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Grass-type attack. Single use.",
+    "chineseShortDesc": "将超高效草类攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Grass"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 188,
+    "name": "Yache Berry",
+    "chineseName": "番荔果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Ice-type attack. Single use.",
+    "chineseDesc": "将超高效冰类攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Ice-type attack. Single use.",
+    "chineseShortDesc": "将超高效冰类攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ice"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 189,
+    "name": "Chople Berry",
+    "chineseName": "莲蒲果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
+    "chineseDesc": "将超高效战斗型攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
+    "chineseShortDesc": "将超高效战斗型攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Fighting"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 190,
+    "name": "Kebia Berry",
+    "chineseName": "通通果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Poison-type attack. Single use.",
+    "chineseDesc": "将超级毒药型攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Poison-type attack. Single use.",
+    "chineseShortDesc": "将超级毒药型攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Poison"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 191,
+    "name": "Shuca Berry",
+    "chineseName": "腰木果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Ground-type attack. Single use.",
+    "chineseDesc": "将超高效地面攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Ground-type attack. Single use.",
+    "chineseShortDesc": "将超高效地面攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ground"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 192,
+    "name": "Coba Berry",
+    "chineseName": "棱瓜果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Flying-type attack. Single use.",
+    "chineseDesc": "将超高效飞行式攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Flying-type attack. Single use.",
+    "chineseShortDesc": "将超高效飞行式攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Flying"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 193,
+    "name": "Payapa Berry",
+    "chineseName": "福禄果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
+    "chineseDesc": "将超级有效的通灵类攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
+    "chineseShortDesc": "将超级有效的通灵类攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Psychic"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 194,
+    "name": "Tanga Berry",
+    "chineseName": "扁樱果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Bug-type attack. Single use.",
+    "chineseDesc": "将超级有效的Bug型攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Bug-type attack. Single use.",
+    "chineseShortDesc": "将超级有效的Bug型攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Bug"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 195,
+    "name": "Charti Berry",
+    "chineseName": "草蚕果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Rock-type attack. Single use.",
+    "chineseDesc": "将超级有效的岩石型攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Rock-type attack. Single use.",
+    "chineseShortDesc": "将超级有效的岩石型攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Rock"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 196,
+    "name": "Kasib Berry",
+    "chineseName": "佛柑果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
+    "chineseDesc": "将超级有效的幽灵型攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
+    "chineseShortDesc": "将超级有效的幽灵型攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ghost"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 197,
+    "name": "Haban Berry",
+    "chineseName": "莓榴果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
+    "chineseDesc": "将超级有效的龙型攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
+    "chineseShortDesc": "将超级有效的龙型攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Dragon"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 198,
+    "name": "Colbur Berry",
+    "chineseName": "刺耳果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Dark-type attack. Single use.",
+    "chineseDesc": "将超级有效的黑暗型攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Dark-type attack. Single use.",
+    "chineseShortDesc": "将超级有效的黑暗型攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Dark"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 199,
+    "name": "Babiri Berry",
+    "chineseName": "霹霹果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Steel-type attack. Single use.",
+    "chineseDesc": "将超级钢铁型攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a supereffective Steel-type attack. Single use.",
+    "chineseShortDesc": "将超级钢铁型攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Steel"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 200,
+    "name": "Chilan Berry",
+    "chineseName": "灯浆果",
+    "generation": 4,
+    "desc": "Halves damage taken from a Normal-type attack. Single use.",
+    "chineseDesc": "将普通类型攻击造成的伤害减半。一次性使用",
+    "shortDesc": "Halves damage taken from a Normal-type attack. Single use.",
+    "chineseShortDesc": "将普通类型攻击造成的伤害减半。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Normal"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 201,
+    "name": "Liechi Berry",
+    "chineseName": "枝荔果",
+    "generation": 3,
+    "desc": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.",
+    "chineseDesc": "当最高生命值为1/4或更低时，持证者的攻击力提高1级。一次性使用",
+    "shortDesc": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.",
+    "chineseShortDesc": "当最高生命值为1/4或更低时，持证者的攻击力提高1级。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Grass"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 202,
+    "name": "Ganlon Berry",
+    "chineseName": "龙睛果",
+    "generation": 3,
+    "desc": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.",
+    "chineseDesc": "当最高生命值为1/4或更低时，持证者的防御提高1级。一次性使用",
+    "shortDesc": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.",
+    "chineseShortDesc": "当最高生命值为1/4或更低时，持证者的防御提高1级。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Ice"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 203,
+    "name": "Salac Berry",
+    "chineseName": "沙鳞果",
+    "generation": 3,
+    "desc": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.",
+    "chineseDesc": "当最高生命值为1/4或更低时，将持球者的速度提高1级。一次性使用",
+    "shortDesc": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.",
+    "chineseShortDesc": "当最高生命值为1/4或更低时，将持球者的速度提高1级。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Fighting"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 204,
+    "name": "Petaya Berry",
+    "chineseName": "龙火果",
+    "generation": 3,
+    "desc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.",
+    "chineseDesc": "当最高生命值为1/4或更低时，将持有者的Sp.Atk提高1级。一次性使用",
+    "shortDesc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.",
+    "chineseShortDesc": "当最高生命值为1/4或更低时，将持有者的Sp.Atk提高1级。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Poison"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 205,
+    "name": "Apicot Berry",
+    "chineseName": "杏仔果",
+    "generation": 3,
+    "desc": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.",
+    "chineseDesc": "当达到或低于最大生命值的1/4时，将持有者的Sp.Def提高1级。一次性使用",
+    "shortDesc": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.",
+    "chineseShortDesc": "当达到或低于最大生命值的1/4时，将持有者的Sp.Def提高1级。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Ground"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 206,
+    "name": "Lansat Berry",
+    "chineseName": "兰萨果",
+    "generation": 3,
+    "desc": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.",
+    "chineseDesc": "当最高HP为1/4或更低时，支架会获得聚焦能量效果。一次性使用",
+    "shortDesc": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.",
+    "chineseShortDesc": "当最高HP为1/4或更低时，支架会获得聚焦能量效果。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Flying"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 207,
+    "name": "Starf Berry",
+    "chineseName": "星桃果",
+    "generation": 3,
+    "desc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
+    "chineseDesc": "当最大HP为1/4或更低时（不是acc/eva），将随机状态提高2。一次性使用",
+    "shortDesc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
+    "chineseShortDesc": "当最大HP为1/4或更低时（不是acc/eva），将随机状态提高2。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Psychic"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 208,
+    "name": "Enigma Berry",
+    "chineseName": "谜芝果",
+    "generation": 3,
+    "desc": "No competitive use.",
+    "chineseDesc": "没有竞争用途。",
+    "shortDesc": "No competitive use.",
+    "chineseShortDesc": "没有竞争用途。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "isNonstandard": "Unobtainable"
+  },
+  {
+    "id": 209,
+    "name": "Micle Berry",
+    "chineseName": "奇秘果",
+    "generation": 4,
+    "desc": "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.",
+    "chineseDesc": "当最大HP为1/4或更低时，Holder的下一步移动精度为1.2倍。一次性使用",
+    "shortDesc": "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.",
+    "chineseShortDesc": "当最大HP为1/4或更低时，Holder的下一步移动精度为1.2倍。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Rock"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 210,
+    "name": "Custap Berry",
+    "chineseName": "释陀果",
+    "generation": 4,
+    "desc": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.",
+    "chineseDesc": "当最高HP为1/4或更低时，支架在其优先级范围内首先移动。一次性使用",
+    "shortDesc": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.",
+    "chineseShortDesc": "当最高HP为1/4或更低时，支架在其优先级范围内首先移动。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Ghost"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 211,
+    "name": "Jaboca Berry",
+    "chineseName": "嘉珍果",
+    "generation": 4,
+    "desc": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.",
+    "chineseDesc": "若持牌人被物理移动击中，攻击者将损失其最大生命值的1/8。一次性使用",
+    "shortDesc": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.",
+    "chineseShortDesc": "若持牌人被物理移动击中，攻击者将损失其最大生命值的1/8。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Dragon"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 212,
+    "name": "Rowap Berry",
+    "chineseName": "雾莲果",
+    "generation": 4,
+    "desc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
+    "chineseDesc": "若持牌人被特殊招式击中，攻击者将损失其最大生命值的1/8。一次性使用",
+    "shortDesc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
+    "chineseShortDesc": "若持牌人被特殊招式击中，攻击者将损失其最大生命值的1/8。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Dark"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 213,
+    "name": "Bright Powder",
+    "chineseName": "光粉",
+    "generation": 2,
+    "desc": "An attack against the holder has its accuracy out of 255 lowered by 20.",
+    "chineseDesc": "对持证人的攻击将其255分的准确度降低了20分。",
+    "shortDesc": "An attack against the holder has its accuracy out of 255 lowered by 20.",
+    "chineseShortDesc": "对持证人的攻击将其255分的准确度降低了20分。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 214,
+    "name": "White Herb",
+    "chineseName": "白色香草",
+    "generation": 3,
+    "desc": "Restores all lowered stat stages to 0 when one is less than 0. Single use.",
+    "chineseDesc": "当一个小于0时，将所有降低的状态阶段还原为0。一次性使用",
+    "shortDesc": "Restores all lowered stat stages to 0 when one is less than 0. Single use.",
+    "chineseShortDesc": "当一个小于0时，将所有降低的状态阶段还原为0。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 215,
+    "name": "Macho Brace",
+    "chineseName": "强制锻炼器",
+    "generation": 3,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseShortDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 217,
+    "name": "Quick Claw",
+    "generation": 2,
+    "desc": "Each turn, holder has a ~23.4% chance to move first in its priority bracket.",
+    "shortDesc": "Each turn, holder has a ~23.4% chance to move first in its priority bracket.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 219,
+    "name": "Mental Herb",
+    "chineseName": "心灵香草",
+    "generation": 3,
+    "desc": "Holder is cured if it is infatuated. Single use.",
+    "chineseDesc": "霍尔德如果迷恋，就会痊愈。一次性使用",
+    "shortDesc": "Holder is cured if it is infatuated. Single use.",
+    "chineseShortDesc": "霍尔德如果迷恋，就会痊愈。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 220,
+    "name": "Choice Band",
+    "chineseName": "讲究头带",
+    "generation": 3,
+    "desc": "Holder's Attack is 1.5x, but it can only select the first move it executes.",
+    "chineseDesc": "持有人的攻击是1.5倍，但它只能选择它执行的第一步。",
+    "shortDesc": "Holder's Attack is 1.5x, but it can only select the first move it executes.",
+    "chineseShortDesc": "持有人的攻击是1.5倍，但它只能选择它执行的第一步。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 221,
+    "name": "King's Rock",
+    "chineseName": "王者之证",
+    "generation": 2,
+    "desc": "Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Poliwhirl into Politoed and Slowpoke into Slowking when traded.",
+    "chineseDesc": "持有人在没有机会让目标退缩的情况下进行的攻击，有10%的机会让目标畏缩。在交易时将Poliswire演变为Politoed，将Slowpoke演变为Slowking。",
+    "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
+    "chineseShortDesc": "霍尔德没有机会退缩的攻击有10%的机会退缩。",
+    "fling": {
+      "basePower": 30,
+      "volatileStatus": "flinch"
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 222,
+    "name": "Silver Powder",
+    "chineseName": "银粉",
+    "generation": 2,
+    "desc": "Holder's Bug-type attacks have 1.1x power.",
+    "chineseDesc": "Holder的Bug型攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Bug-type attacks have 1.1x power.",
+    "chineseShortDesc": "Holder的Bug型攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 225,
+    "name": "Soul Dew",
+    "chineseName": "心之水滴",
+    "generation": 3,
+    "desc": "If held by a Latias or a Latios, its Sp. Atk and Sp. Def are 1.5x.",
+    "chineseDesc": "如果由拉丁裔或拉丁裔持有，其Sp.Atk和Sp.Def为1.5倍。",
+    "shortDesc": "If held by a Latias or a Latios, its Sp. Atk and Sp. Def are 1.5x.",
+    "chineseShortDesc": "如果由拉丁裔或拉丁裔持有，其Sp.Atk和Sp.Def为1.5倍。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Latios",
+      "Latias"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Deep Sea Tooth",
+    "chineseName": "深海之牙",
+    "generation": 3,
+    "desc": "If held by a Clamperl, its Sp. Atk is doubled. Evolves Clamperl into Huntail when traded.",
+    "chineseDesc": "如果被Clampell持有，其Sp.Atk将加倍。交易时将Clampell进化为Huntail。",
+    "shortDesc": "If held by a Clamperl, its Sp. Atk is doubled.",
+    "chineseShortDesc": "如果被Clampell持有，其Sp.Atk将加倍。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Clamperl"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Deep Sea Scale",
+    "chineseName": "深海鳞片",
+    "generation": 3,
+    "desc": "If held by a Clamperl, its Sp. Def is doubled. Evolves Clamperl into Gorebyss when traded.",
+    "chineseDesc": "如果由Clampell持有，其Sp.Def将翻倍。交易时将Clampell演变为Gorebys。",
+    "shortDesc": "If held by a Clamperl, its Sp. Def is doubled.",
+    "chineseShortDesc": "如果由Clampell持有，其Sp.Def将翻倍。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Clamperl"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Focus Band",
+    "chineseName": "气势头带",
+    "generation": 2,
+    "desc": "Holder has a ~11.7% chance to survive an attack that would KO it with 1 HP.",
+    "chineseDesc": "霍尔德有11.7%的几率在一次攻击中幸存下来，这次攻击将使其损失1点生命值。",
+    "shortDesc": "Holder has a ~11.7% chance to survive an attack that would KO it with 1 HP.",
+    "chineseShortDesc": "霍尔德有11.7%的几率在一次攻击中幸存下来，这次攻击将使其损失1点生命值。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 232,
+    "name": "Scope Lens",
+    "chineseName": "焦点镜",
+    "generation": 2,
+    "desc": "Holder's critical hit ratio is raised by 1 stage.",
+    "chineseDesc": "持有人的临界命中率提高了1个阶段。",
+    "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
+    "chineseShortDesc": "持有人的临界命中率提高了1个阶段。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 233,
+    "name": "Metal Coat",
+    "chineseName": "金属膜",
+    "generation": 2,
+    "desc": "Holder's Steel-type attacks have 1.1x power. Evolves Onix into Steelix and Scyther into Scizor when traded.",
+    "chineseDesc": "霍尔德的钢铁型攻击具有1.1倍的威力。交易时将Onix演变为Steelix，将Scyther演变为Scizor。",
+    "shortDesc": "Holder's Steel-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的钢铁型攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 234,
+    "name": "Leftovers",
+    "chineseName": "吃剩的东西",
+    "generation": 2,
+    "desc": "At the end of every turn, holder restores 1/16 of its max HP.",
+    "chineseDesc": "在每一回合结束时，持球者将恢复其最大生命值的1/16。",
+    "shortDesc": "At the end of every turn, holder restores 1/16 of its max HP.",
+    "chineseShortDesc": "在每一回合结束时，持球者将恢复其最大生命值的1/16。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 235,
+    "name": "Dragon Scale",
+    "chineseName": "龙之鳞片",
+    "generation": 2,
+    "desc": "Holder's Dragon-type attacks have 1.1x power. Evolves Seadra (trade).",
+    "chineseDesc": "霍尔德的龙式攻击具有1.1倍的威力。进化Seadra（贸易）。",
+    "shortDesc": "Holder's Dragon-type attacks have 1.1x power. Evolves Seadra (trade).",
+    "chineseShortDesc": "霍尔德的龙式攻击具有1.1倍的威力。进化Seadra（贸易）。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 236,
+    "name": "Light Ball",
+    "chineseName": "电气球",
+    "generation": 2,
+    "desc": "If held by a Pikachu, its Special Attack is doubled.",
+    "chineseDesc": "如果被皮卡丘控制，它的特殊攻击会加倍。",
+    "shortDesc": "If held by a Pikachu, its Special Attack is doubled.",
+    "chineseShortDesc": "如果被皮卡丘控制，它的特殊攻击会加倍。",
+    "fling": {
+      "basePower": 30,
+      "status": "par"
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Pikachu",
+      "Pikachu-Cosplay",
+      "Pikachu-Rock-Star",
+      "Pikachu-Belle",
+      "Pikachu-Pop-Star",
+      "Pikachu-PhD",
+      "Pikachu-Libre",
+      "Pikachu-Original",
+      "Pikachu-Hoenn",
+      "Pikachu-Sinnoh",
+      "Pikachu-Unova",
+      "Pikachu-Kalos",
+      "Pikachu-Alola",
+      "Pikachu-Partner",
+      "Pikachu-Starter",
+      "Pikachu-World"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Soft Sand",
+    "chineseName": "柔软沙子",
+    "generation": 2,
+    "desc": "Holder's Ground-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的地面式攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Ground-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的地面式攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 238,
+    "name": "Hard Stone",
+    "chineseName": "硬石头",
+    "generation": 2,
+    "desc": "Holder's Rock-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的岩石式攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Rock-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的岩石式攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 239,
+    "name": "Miracle Seed",
+    "chineseName": "奇迹种子",
+    "generation": 2,
+    "desc": "Holder's Grass-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的草型攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Grass-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的草型攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 240,
+    "name": "Black Glasses",
+    "chineseName": "黑色眼镜",
+    "generation": 2,
+    "desc": "Holder's Dark-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的黑暗型攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Dark-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的黑暗型攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 241,
+    "name": "Black Belt",
+    "chineseName": "黑带",
+    "generation": 2,
+    "desc": "Holder's Fighting-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的战斗型攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Fighting-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的战斗型攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 242,
+    "name": "Magnet",
+    "chineseName": "磁铁",
+    "generation": 2,
+    "desc": "Holder's Electric-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的电动攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Electric-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的电动攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 243,
+    "name": "Mystic Water",
+    "chineseName": "神秘水滴",
+    "generation": 2,
+    "desc": "Holder's Water-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的水型攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Water-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的水型攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 244,
+    "name": "Sharp Beak",
+    "chineseName": "锐利鸟嘴",
+    "generation": 2,
+    "desc": "Holder's Flying-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的飞行式攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Flying-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的飞行式攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 50
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 245,
+    "name": "Poison Barb",
+    "chineseName": "毒针",
+    "generation": 2,
+    "desc": "Holder's Poison-type attacks have 1.1x power.",
+    "chineseDesc": "持有者的毒药型攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Poison-type attacks have 1.1x power.",
+    "chineseShortDesc": "持有者的毒药型攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 70,
+      "status": "psn"
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 246,
+    "name": "Never-Melt Ice",
+    "chineseName": "不融冰",
+    "generation": 2,
+    "desc": "Holder's Ice-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的冰式攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Ice-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的冰式攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 247,
+    "name": "Spell Tag",
+    "chineseName": "诅咒之符",
+    "generation": 2,
+    "desc": "Holder's Ghost-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的幽灵式攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Ghost-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的幽灵式攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 248,
+    "name": "Twisted Spoon",
+    "chineseName": "弯曲的汤匙",
+    "generation": 2,
+    "desc": "Holder's Psychic-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的心理型攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Psychic-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的心理型攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 249,
+    "name": "Charcoal",
+    "chineseName": "木炭",
+    "generation": 2,
+    "desc": "Holder's Fire-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的火型攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Fire-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的火型攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 250,
+    "name": "Dragon Fang",
+    "chineseName": "龙之牙",
+    "generation": 2,
+    "desc": "No competitive use.",
+    "chineseDesc": "没有竞争用途。",
+    "shortDesc": "No competitive use.",
+    "chineseShortDesc": "没有竞争用途。",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 251,
+    "name": "Pink Bow",
+    "chineseName": "粉红色丝带",
+    "generation": 2,
+    "desc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+    "chineseDesc": "（第2代）霍尔德的普通型攻击具有1.1倍的威力。",
+    "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+    "chineseShortDesc": "（第2代）霍尔德的普通型攻击具有1.1倍的威力。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 251,
+    "name": "Polkadot Bow",
+    "chineseName": "水玉色之带",
+    "generation": 2,
+    "desc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+    "chineseDesc": "（第2代）霍尔德的普通型攻击具有1.1倍的威力。",
+    "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+    "chineseShortDesc": "（第2代）霍尔德的普通型攻击具有1.1倍的威力。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 251,
+    "name": "Silk Scarf",
+    "chineseName": "丝绸围巾",
+    "generation": 3,
+    "desc": "Holder's Normal-type attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的普通型攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's Normal-type attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的普通型攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 252,
+    "name": "Up-Grade",
+    "chineseName": "升级数据",
+    "generation": 2,
+    "desc": "Evolves Porygon into Porygon2 when traded.",
+    "chineseDesc": "交易时将Porygon演变为Porygon2。",
+    "shortDesc": "Evolves Porygon into Porygon2 when traded.",
+    "chineseShortDesc": "交易时将Porygon演变为Porygon2。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 253,
+    "name": "Shell Bell",
+    "chineseName": "贝壳之铃",
+    "generation": 3,
+    "desc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
+    "chineseDesc": "攻击后，持有者获得对其他口袋妖怪造成的HP伤害的1/8。",
+    "shortDesc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
+    "chineseShortDesc": "攻击后，持有者获得对其他口袋妖怪造成的HP伤害的1/8。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 254,
+    "name": "Sea Incense",
+    "chineseName": "海潮薰香",
+    "generation": 3,
+    "desc": "Holder's Water-type attacks have 1.05x power.",
+    "chineseDesc": "霍尔德的水型攻击具有1.05倍的威力。",
+    "shortDesc": "Holder's Water-type attacks have 1.05x power.",
+    "chineseShortDesc": "霍尔德的水型攻击具有1.05倍的威力。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 255,
+    "name": "Lax Incense",
+    "chineseName": "悠闲薰香",
+    "generation": 3,
+    "desc": "The accuracy of attacks against the holder is 0.95x.",
+    "chineseDesc": "对持牌人的攻击准确率为0.95倍。",
+    "shortDesc": "The accuracy of attacks against the holder is 0.95x.",
+    "chineseShortDesc": "对持牌人的攻击准确率为0.95倍。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 256,
+    "name": "Lucky Punch",
+    "chineseName": "吉利拳",
+    "generation": 2,
+    "desc": "If held by a Chansey, its critical hit ratio is always at stage 2. (25% crit rate)",
+    "chineseDesc": "如果由Chansey持有，其临界命中率始终处于第二阶段。（25%的临界率）",
+    "shortDesc": "If held by a Chansey, its critical hit ratio is always at stage 2. (25% crit rate)",
+    "chineseShortDesc": "如果由Chansey持有，其临界命中率始终处于第二阶段。（25%的临界率）",
+    "fling": {
+      "basePower": 40
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Chansey"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Metal Powder",
+    "chineseName": "金属粉",
+    "generation": 2,
+    "desc": "If held by a Ditto, its Defense and Sp. Def are 1.5x, even while Transformed.",
+    "chineseDesc": "如果由Ditto持有，即使在Transformed时，其防御和Sp.Def也是1.5倍。",
+    "shortDesc": "If held by a Ditto, its Defense and Sp. Def are 1.5x, even while Transformed.",
+    "chineseShortDesc": "如果由Ditto持有，即使在Transformed时，其防御和Sp.Def也是1.5倍。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Ditto"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Thick Club",
+    "chineseName": "粗骨头",
+    "generation": 2,
+    "desc": "If held by a Cubone or a Marowak, its Attack is doubled.",
+    "chineseDesc": "如果被Cubone或Marowak持有，其攻击力将加倍。",
+    "shortDesc": "If held by a Cubone or a Marowak, its Attack is doubled.",
+    "chineseShortDesc": "如果被Cubone或Marowak持有，其攻击力将加倍。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Marowak",
+      "Marowak-Alola",
+      "Marowak-Alola-Totem",
+      "Cubone"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Stick",
+    "chineseName": "大葱",
+    "generation": 2,
+    "desc": "If held by a Farfetch’d, its critical hit ratio is always at stage 2. (25% crit rate)",
+    "chineseDesc": "如果由Farfetch持有，其临界命中率始终处于第2阶段。（25%的临界率）",
+    "shortDesc": "If held by a Farfetch’d, its critical hit ratio is always at stage 2. (25% crit rate)",
+    "chineseShortDesc": "如果由Farfetch持有，其临界命中率始终处于第2阶段。（25%的临界率）",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Farfetch’d"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Wide Lens",
+    "chineseName": "广角镜",
+    "generation": 4,
+    "desc": "The accuracy of attacks by the holder is 1.1x.",
+    "chineseDesc": "持证人攻击的准确率为1.1倍。",
+    "shortDesc": "The accuracy of attacks by the holder is 1.1x.",
+    "chineseShortDesc": "持证人攻击的准确率为1.1倍。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 266,
+    "name": "Muscle Band",
+    "chineseName": "力量头带",
+    "generation": 4,
+    "desc": "Holder's physical attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的身体攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's physical attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的身体攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 267,
+    "name": "Wise Glasses",
+    "chineseName": "博识眼镜",
+    "generation": 4,
+    "desc": "Holder's special attacks have 1.1x power.",
+    "chineseDesc": "霍尔德的特殊攻击具有1.1倍的威力。",
+    "shortDesc": "Holder's special attacks have 1.1x power.",
+    "chineseShortDesc": "霍尔德的特殊攻击具有1.1倍的威力。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 268,
+    "name": "Expert Belt",
+    "chineseName": "达人带",
+    "generation": 4,
+    "desc": "Holder's attacks that are super effective against the target do 1.2x damage.",
+    "chineseDesc": "霍尔德的攻击对目标非常有效，造成1.2倍的伤害。",
+    "shortDesc": "Holder's attacks that are super effective against the target do 1.2x damage.",
+    "chineseShortDesc": "霍尔德的攻击对目标非常有效，造成1.2倍的伤害。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 269,
+    "name": "Light Clay",
+    "chineseName": "光之黏土",
+    "generation": 4,
+    "desc": "Holder's use of Light Screen or Reflect lasts 8 turns instead of 5.",
+    "chineseDesc": "持证者使用光幕或反光镜的时间为8圈，而不是5圈。",
+    "shortDesc": "Holder's use of Light Screen or Reflect lasts 8 turns instead of 5.",
+    "chineseShortDesc": "持证者使用光幕或反光镜的时间为8圈，而不是5圈。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 270,
+    "name": "Life Orb",
+    "chineseName": "生命宝珠",
+    "generation": 4,
+    "desc": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.",
+    "chineseDesc": "霍尔德的攻击造成1.3倍的伤害，攻击后损失1/10的最大生命值。",
+    "shortDesc": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.",
+    "chineseShortDesc": "霍尔德的攻击造成1.3倍的伤害，攻击后损失1/10的最大生命值。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 271,
+    "name": "Power Herb",
+    "generation": 4,
+    "desc": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use.",
+    "shortDesc": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 272,
+    "name": "Toxic Orb",
+    "chineseName": "剧毒宝珠",
+    "generation": 4,
+    "desc": "At the end of every turn, this item attempts to badly poison the holder.",
+    "chineseDesc": "在每一回合结束时，这个物品都会试图严重毒害持有者。",
+    "shortDesc": "At the end of every turn, this item attempts to badly poison the holder.",
+    "chineseShortDesc": "在每一回合结束时，这个物品都会试图严重毒害持有者。",
+    "fling": {
+      "basePower": 30,
+      "status": "tox"
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 273,
+    "name": "Flame Orb",
+    "chineseName": "火焰宝珠",
+    "generation": 4,
+    "desc": "At the end of every turn, this item attempts to burn the holder.",
+    "chineseDesc": "在每个回合结束时，此物品都会试图烧毁支架。",
+    "shortDesc": "At the end of every turn, this item attempts to burn the holder.",
+    "chineseShortDesc": "在每个回合结束时，此物品都会试图烧毁支架。",
+    "fling": {
+      "basePower": 30,
+      "status": "brn"
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 274,
+    "name": "Quick Powder",
+    "chineseName": "速度粉",
+    "generation": 4,
+    "desc": "If held by a Ditto that hasn't Transformed, its Speed is doubled.",
+    "chineseDesc": "如果被未变形的Ditto持有，其速度将加倍。",
+    "shortDesc": "If held by a Ditto that hasn't Transformed, its Speed is doubled.",
+    "chineseShortDesc": "如果被未变形的Ditto持有，其速度将加倍。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Ditto"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Focus Sash",
+    "chineseName": "气势披带",
+    "generation": 4,
+    "desc": "If holder's HP is full, survives all hits of one attack with at least 1 HP. Single use.",
+    "chineseDesc": "如果持有者的生命值已满，则一次攻击的所有命中中至少有1个生命值。一次性使用",
+    "shortDesc": "If holder's HP is full, survives all hits of one attack with at least 1 HP. Single use.",
+    "chineseShortDesc": "如果持有者的生命值已满，则一次攻击的所有命中中至少有1个生命值。一次性使用",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 276,
+    "name": "Zoom Lens",
+    "chineseName": "对焦镜",
+    "generation": 4,
+    "desc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
+    "chineseDesc": "如果持有者在目标后移动，其攻击精度为1.2倍。",
+    "shortDesc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
+    "chineseShortDesc": "如果持有者在目标后移动，其攻击精度为1.2倍。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 277,
+    "name": "Metronome",
+    "chineseName": "Metronome",
+    "generation": 4,
+    "desc": "Damage of moves used on consecutive turns is increased. Max 2x after 10 turns.",
+    "chineseDesc": "连续转弯时使用的移动伤害会增加。10圈后最多2次。",
+    "shortDesc": "Damage of moves used on consecutive turns is increased. Max 2x after 10 turns.",
+    "chineseShortDesc": "连续转弯时使用的移动伤害会增加。10圈后最多2次。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 278,
+    "name": "Iron Ball",
+    "chineseName": "黑色铁球",
+    "generation": 4,
+    "desc": "Holder's Speed is halved and it becomes grounded.",
+    "chineseDesc": "持有人的速度减半，并接地。",
+    "shortDesc": "Holder's Speed is halved and it becomes grounded.",
+    "chineseShortDesc": "持有人的速度减半，并接地。",
+    "fling": {
+      "basePower": 130
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 279,
+    "name": "Lagging Tail",
+    "chineseName": "后攻之尾",
+    "generation": 4,
+    "desc": "Holder moves last in its priority bracket.",
+    "chineseDesc": "持有人在其优先级括号中移动到最后。",
+    "shortDesc": "Holder moves last in its priority bracket.",
+    "chineseShortDesc": "持有人在其优先级括号中移动到最后。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 280,
+    "name": "Destiny Knot",
+    "chineseName": "红线",
+    "generation": 4,
+    "desc": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
+    "chineseDesc": "如果持有者迷恋，其他口袋妖怪也会迷恋。",
+    "shortDesc": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
+    "chineseShortDesc": "如果持有者迷恋，其他口袋妖怪也会迷恋。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 281,
+    "name": "Black Sludge",
+    "chineseName": "黑色污泥",
+    "generation": 4,
+    "desc": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.",
+    "chineseDesc": "每回合，如果持有者是毒药类型，则恢复1/16最大生命值；如果没有，损失1/8。",
+    "shortDesc": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.",
+    "chineseShortDesc": "每回合，如果持有者是毒药类型，则恢复1/16最大生命值；如果没有，损失1/8。",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 282,
+    "name": "Icy Rock",
+    "chineseName": "冰冷岩石",
+    "generation": 4,
+    "desc": "Holder's use of Hail lasts 8 turns instead of 5.",
+    "chineseDesc": "持有人使用冰雹持续8圈，而不是5圈。",
+    "shortDesc": "Holder's use of Hail lasts 8 turns instead of 5.",
+    "chineseShortDesc": "持有人使用冰雹持续8圈，而不是5圈。",
+    "fling": {
+      "basePower": 40
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 283,
+    "name": "Smooth Rock",
+    "chineseName": "沙沙岩石",
+    "generation": 4,
+    "desc": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
+    "chineseDesc": "霍尔德对沙尘暴的使用持续8圈，而不是5圈。",
+    "shortDesc": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
+    "chineseShortDesc": "霍尔德对沙尘暴的使用持续8圈，而不是5圈。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 284,
+    "name": "Heat Rock",
+    "chineseName": "炽热岩石",
+    "generation": 4,
+    "desc": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
+    "chineseDesc": "霍尔德对晴天的使用持续8圈，而不是5圈。",
+    "shortDesc": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
+    "chineseShortDesc": "霍尔德对晴天的使用持续8圈，而不是5圈。",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 285,
+    "name": "Damp Rock",
+    "chineseName": "潮湿岩石",
+    "generation": 4,
+    "desc": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
+    "chineseDesc": "持牌人使用《雨舞》的时长为8圈，而非5圈。",
+    "shortDesc": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
+    "chineseShortDesc": "持牌人使用《雨舞》的时长为8圈，而非5圈。",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 286,
+    "name": "Grip Claw",
+    "chineseName": "紧缠钩爪",
+    "generation": 4,
+    "desc": "Holder's partial-trapping moves always last 7 turns.",
+    "chineseDesc": "持有人的部分诱捕动作总是持续7圈。",
+    "shortDesc": "Holder's partial-trapping moves always last 7 turns.",
+    "chineseShortDesc": "持有人的部分诱捕动作总是持续7圈。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 287,
+    "name": "Choice Scarf",
+    "chineseName": "讲究围巾",
+    "generation": 4,
+    "desc": "Holder's Speed is 1.5x, but it can only select the first move it executes.",
+    "chineseDesc": "持有人的速度是1.5倍，但它只能选择它执行的第一步。",
+    "shortDesc": "Holder's Speed is 1.5x, but it can only select the first move it executes.",
+    "chineseShortDesc": "持有人的速度是1.5倍，但它只能选择它执行的第一步。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 288,
+    "name": "Sticky Barb",
+    "chineseName": "附着针",
+    "generation": 4,
+    "desc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
+    "chineseDesc": "每转一圈，持球者损失1/8的最大生命值。攻击者可以联系到它。",
+    "shortDesc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
+    "chineseShortDesc": "每转一圈，持球者损失1/8的最大生命值。攻击者可以联系到它。",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 289,
+    "name": "Power Bracer",
+    "chineseName": "力量护腕",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseShortDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 290,
+    "name": "Power Belt",
+    "chineseName": "力量腰带",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseShortDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 291,
+    "name": "Power Lens",
+    "chineseName": "力量镜",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseShortDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 292,
+    "name": "Power Band",
+    "chineseName": "力量束带",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseShortDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 293,
+    "name": "Power Anklet",
+    "chineseName": "力量护踝",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseShortDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 294,
+    "name": "Power Weight",
+    "chineseName": "力量负重",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "chineseShortDesc": "持有人的速度减半。Klutz Ability不会忽视这种影响。",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 295,
+    "name": "Shed Shell",
+    "chineseName": "美丽空壳",
+    "generation": 4,
+    "desc": "Holder cannot be prevented from choosing to switch out by any effect.",
+    "chineseDesc": "任何效果都无法阻止持有人选择关闭。",
+    "shortDesc": "Holder cannot be prevented from choosing to switch out by any effect.",
+    "chineseShortDesc": "任何效果都无法阻止持有人选择关闭。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 296,
+    "name": "Big Root",
+    "chineseName": "大根茎",
+    "generation": 4,
+    "desc": "Holder gains 1.3x HP from draining moves, Aqua Ring, Ingrain, and Leech Seed.",
+    "chineseDesc": "持水者通过排水动作、水环、入口和水蛭种子获得1.3倍生命值。",
+    "shortDesc": "Holder gains 1.3x HP from draining moves, Aqua Ring, Ingrain, and Leech Seed.",
+    "chineseShortDesc": "持水者通过排水动作、水环、入口和水蛭种子获得1.3倍生命值。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 297,
+    "name": "Choice Specs",
+    "chineseName": "讲究眼镜",
+    "generation": 4,
+    "desc": "Holder's Sp. Atk is 1.5x, but it can only select the first move it executes.",
+    "chineseDesc": "Holder的Sp.Atk是1.5倍，但它只能选择它执行的第一步。",
+    "shortDesc": "Holder's Sp. Atk is 1.5x, but it can only select the first move it executes.",
+    "chineseShortDesc": "Holder的Sp.Atk是1.5倍，但它只能选择它执行的第一步。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 298,
+    "name": "Flame Plate",
+    "chineseName": "火球石板",
+    "generation": 4,
+    "desc": "Holder's Fire-type attacks have 1.2x power. Judgment is Fire type.",
+    "chineseDesc": "霍尔德的火型攻击具有1.2倍的威力。判断是火型的。",
+    "shortDesc": "Holder's Fire-type attacks have 1.2x power. Judgment is Fire type.",
+    "chineseShortDesc": "霍尔德的火型攻击具有1.2倍的威力。判断是火型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 299,
+    "name": "Splash Plate",
+    "chineseName": "水滴石板",
+    "generation": 4,
+    "desc": "Holder's Water-type attacks have 1.2x power. Judgment is Water type.",
+    "chineseDesc": "霍尔德的水型攻击具有1.2倍的威力。判断是水型的。",
+    "shortDesc": "Holder's Water-type attacks have 1.2x power. Judgment is Water type.",
+    "chineseShortDesc": "霍尔德的水型攻击具有1.2倍的威力。判断是水型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 300,
+    "name": "Zap Plate",
+    "chineseName": "雷电石板",
+    "generation": 4,
+    "desc": "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.",
+    "chineseDesc": "霍尔德的电动攻击具有1.2倍的威力。判断是电动的。",
+    "shortDesc": "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.",
+    "chineseShortDesc": "霍尔德的电动攻击具有1.2倍的威力。判断是电动的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 301,
+    "name": "Meadow Plate",
+    "chineseName": "碧绿石板",
+    "generation": 4,
+    "desc": "Holder's Grass-type attacks have 1.2x power. Judgment is Grass type.",
+    "chineseDesc": "霍尔德的草型攻击具有1.2倍的威力。判断是草型的。",
+    "shortDesc": "Holder's Grass-type attacks have 1.2x power. Judgment is Grass type.",
+    "chineseShortDesc": "霍尔德的草型攻击具有1.2倍的威力。判断是草型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 302,
+    "name": "Icicle Plate",
+    "chineseName": "冰柱石板",
+    "generation": 4,
+    "desc": "Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.",
+    "chineseDesc": "霍尔德的冰式攻击具有1.2倍的威力。判断是冰型的。",
+    "shortDesc": "Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.",
+    "chineseShortDesc": "霍尔德的冰式攻击具有1.2倍的威力。判断是冰型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 303,
+    "name": "Fist Plate",
+    "chineseName": "拳头石板",
+    "generation": 4,
+    "desc": "Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type.",
+    "chineseDesc": "霍尔德的战斗型攻击具有1.2倍的威力。判断是战斗型的。",
+    "shortDesc": "Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type.",
+    "chineseShortDesc": "霍尔德的战斗型攻击具有1.2倍的威力。判断是战斗型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 304,
+    "name": "Toxic Plate",
+    "chineseName": "剧毒石板",
+    "generation": 4,
+    "desc": "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.",
+    "chineseDesc": "持有者的毒药型攻击具有1.2倍的威力。判断是毒药型。",
+    "shortDesc": "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.",
+    "chineseShortDesc": "持有者的毒药型攻击具有1.2倍的威力。判断是毒药型。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 305,
+    "name": "Earth Plate",
+    "chineseName": "大地石板",
+    "generation": 4,
+    "desc": "Holder's Ground-type attacks have 1.2x power. Judgment is Ground type.",
+    "chineseDesc": "霍尔德的地面型攻击具有1.2倍的威力。判断是地面类型。",
+    "shortDesc": "Holder's Ground-type attacks have 1.2x power. Judgment is Ground type.",
+    "chineseShortDesc": "霍尔德的地面型攻击具有1.2倍的威力。判断是地面类型。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 306,
+    "name": "Sky Plate",
+    "chineseName": "蓝天石板",
+    "generation": 4,
+    "desc": "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.",
+    "chineseDesc": "霍尔德的飞行式攻击具有1.2倍的威力。判断是飞行型的。",
+    "shortDesc": "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.",
+    "chineseShortDesc": "霍尔德的飞行式攻击具有1.2倍的威力。判断是飞行型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 307,
+    "name": "Mind Plate",
+    "chineseName": "神奇石板",
+    "generation": 4,
+    "desc": "Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type.",
+    "chineseDesc": "霍尔德的通灵型攻击具有1.2倍的威力。判断是心理型的。",
+    "shortDesc": "Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type.",
+    "chineseShortDesc": "霍尔德的通灵型攻击具有1.2倍的威力。判断是心理型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 308,
+    "name": "Insect Plate",
+    "chineseName": "玉虫石板",
+    "generation": 4,
+    "desc": "Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.",
+    "chineseDesc": "Holder的Bug型攻击具有1.2倍的威力。判断是Bug类型的。",
+    "shortDesc": "Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.",
+    "chineseShortDesc": "Holder的Bug型攻击具有1.2倍的威力。判断是Bug类型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 309,
+    "name": "Stone Plate",
+    "chineseName": "岩石石板",
+    "generation": 4,
+    "desc": "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.",
+    "chineseDesc": "霍尔德的岩石式攻击具有1.2倍的威力。判断是岩石型的。",
+    "shortDesc": "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.",
+    "chineseShortDesc": "霍尔德的岩石式攻击具有1.2倍的威力。判断是岩石型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 310,
+    "name": "Spooky Plate",
+    "chineseName": "妖怪石板",
+    "generation": 4,
+    "desc": "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.",
+    "chineseDesc": "霍尔德的幽灵型攻击具有1.2倍的威力。判断是鬼型的。",
+    "shortDesc": "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.",
+    "chineseShortDesc": "霍尔德的幽灵型攻击具有1.2倍的威力。判断是鬼型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 311,
+    "name": "Draco Plate",
+    "chineseName": "龙之石板",
+    "generation": 4,
+    "desc": "Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type.",
+    "chineseDesc": "霍尔德的龙式攻击具有1.2倍的威力。判断是龙型的。",
+    "shortDesc": "Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type.",
+    "chineseShortDesc": "霍尔德的龙式攻击具有1.2倍的威力。判断是龙型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 312,
+    "name": "Dread Plate",
+    "chineseName": "恶颜石板",
+    "generation": 4,
+    "desc": "Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.",
+    "chineseDesc": "霍尔德的黑暗型攻击具有1.2倍的威力。判断是黑暗型的。",
+    "shortDesc": "Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.",
+    "chineseShortDesc": "霍尔德的黑暗型攻击具有1.2倍的威力。判断是黑暗型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 313,
+    "name": "Iron Plate",
+    "chineseName": "钢铁石板",
+    "generation": 4,
+    "desc": "Holder's Steel-type attacks have 1.2x power. Judgment is Steel type.",
+    "chineseDesc": "霍尔德的钢铁型攻击具有1.2倍的威力。判断是钢铁型的。",
+    "shortDesc": "Holder's Steel-type attacks have 1.2x power. Judgment is Steel type.",
+    "chineseShortDesc": "霍尔德的钢铁型攻击具有1.2倍的威力。判断是钢铁型的。",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 314,
+    "name": "Odd Incense",
+    "chineseName": "奇异薰香",
+    "generation": 4,
+    "desc": "Holder's Psychic-type attacks have 1.2x power.",
+    "chineseDesc": "霍尔德的通灵型攻击具有1.2倍的威力。",
+    "shortDesc": "Holder's Psychic-type attacks have 1.2x power.",
+    "chineseShortDesc": "霍尔德的通灵型攻击具有1.2倍的威力。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 315,
+    "name": "Rock Incense",
+    "chineseName": "岩石薰香",
+    "generation": 4,
+    "desc": "Holder's Rock-type attacks have 1.2x power.",
+    "chineseDesc": "霍尔德的岩石式攻击具有1.2倍的威力。",
+    "shortDesc": "Holder's Rock-type attacks have 1.2x power.",
+    "chineseShortDesc": "霍尔德的岩石式攻击具有1.2倍的威力。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 316,
+    "name": "Full Incense",
+    "chineseName": "饱腹薰香",
+    "generation": 4,
+    "desc": "Holder moves last in its priority bracket.",
+    "chineseDesc": "持有人在其优先级括号中移动到最后。",
+    "shortDesc": "Holder moves last in its priority bracket.",
+    "chineseShortDesc": "持有人在其优先级括号中移动到最后。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 317,
+    "name": "Wave Incense",
+    "chineseName": "涟漪薰香",
+    "generation": 4,
+    "desc": "Holder's Water-type attacks have 1.2x power.",
+    "chineseDesc": "霍尔德的水型攻击具有1.2倍的威力。",
+    "shortDesc": "Holder's Water-type attacks have 1.2x power.",
+    "chineseShortDesc": "霍尔德的水型攻击具有1.2倍的威力。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 318,
+    "name": "Rose Incense",
+    "chineseName": "花朵薰香",
+    "generation": 4,
+    "desc": "Holder's Grass-type attacks have 1.2x power.",
+    "chineseDesc": "霍尔德的草型攻击具有1.2倍的威力。",
+    "shortDesc": "Holder's Grass-type attacks have 1.2x power.",
+    "chineseShortDesc": "霍尔德的草型攻击具有1.2倍的威力。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 321,
+    "name": "Protector",
+    "chineseName": "护具",
+    "generation": 4,
+    "desc": "Evolves Rhydon into Rhyperior when traded.",
+    "chineseDesc": "交易时将Rhydon演变为Rhyperior。",
+    "shortDesc": "Evolves Rhydon into Rhyperior when traded.",
+    "chineseShortDesc": "交易时将Rhydon演变为Rhyperior。",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 322,
+    "name": "Electirizer",
+    "chineseName": "电力增幅器",
+    "generation": 4,
+    "desc": "Evolves Electabuzz into Electivire when traded.",
+    "chineseDesc": "交易时将Electabuzz演变为Electivire。",
+    "shortDesc": "Evolves Electabuzz into Electivire when traded.",
+    "chineseShortDesc": "交易时将Electabuzz演变为Electivire。",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 323,
+    "name": "Magmarizer",
+    "chineseName": "熔岩增幅器",
+    "generation": 4,
+    "desc": "Evolves Magmar into Magmortar when traded.",
+    "chineseDesc": "在交易时将Magmar演变为Maggrill。",
+    "shortDesc": "Evolves Magmar into Magmortar when traded.",
+    "chineseShortDesc": "在交易时将Magmar演变为Maggrill。",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 324,
+    "name": "Dubious Disc",
+    "chineseName": "可疑补丁",
+    "generation": 4,
+    "desc": "Evolves Porygon2 into Porygon-Z when traded.",
+    "chineseDesc": "交易时将Porygon2演变为Porygon-Z。",
+    "shortDesc": "Evolves Porygon2 into Porygon-Z when traded.",
+    "chineseShortDesc": "交易时将Porygon2演变为Porygon-Z。",
+    "fling": {
+      "basePower": 50
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 325,
+    "name": "Reaper Cloth",
+    "chineseName": "灵界之布",
+    "generation": 4,
+    "desc": "Evolves Dusclops into Dusknoir when traded.",
+    "chineseDesc": "交易时，将黄昏演变为黄昏。",
+    "shortDesc": "Evolves Dusclops into Dusknoir when traded.",
+    "chineseShortDesc": "交易时，将黄昏演变为黄昏。",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 326,
+    "name": "Razor Claw",
+    "chineseName": "锐利之爪",
+    "generation": 4,
+    "desc": "Holder's critical hit ratio is raised by 1 stage. Evolves Sneasel into Weavile when held and leveled up during the night.",
+    "chineseDesc": "持有人的临界命中率提高了1个阶段。在夜间手持并调平时，Sneasel会演变为Weavile。",
+    "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
+    "chineseShortDesc": "持有人的临界命中率提高了1个阶段。",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 327,
+    "name": "Razor Fang",
+    "chineseName": "锐利之牙",
+    "generation": 4,
+    "desc": "Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Gligar into Gliscor when held and leveled up during the night.",
+    "chineseDesc": "持有人在没有机会让目标退缩的情况下进行的攻击，有10%的机会让目标畏缩。在夜间举起并调平时，将Gligar演变为Gliscor。",
+    "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
+    "chineseShortDesc": "霍尔德没有机会退缩的攻击有10%的机会退缩。",
+    "fling": {
+      "basePower": 30,
+      "volatileStatus": "flinch"
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 492,
+    "name": "Fast Ball",
+    "chineseName": "速度球",
+    "generation": 2,
+    "desc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
+    "chineseDesc": "一个口袋球，可以更容易地抓住快速逃跑的口袋妖怪。",
+    "shortDesc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
+    "chineseShortDesc": "一个口袋球，可以更容易地抓住快速逃跑的口袋妖怪。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 493,
+    "name": "Level Ball",
+    "chineseName": "等级球",
+    "generation": 2,
+    "desc": "A Poke Ball for catching Pokemon that are a lower level than your own.",
+    "chineseDesc": "一个用于捕捉比你自己的水平低的口袋妖怪的口袋球。",
+    "shortDesc": "A Poke Ball for catching Pokemon that are a lower level than your own.",
+    "chineseShortDesc": "一个用于捕捉比你自己的水平低的口袋妖怪的口袋球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 494,
+    "name": "Lure Ball",
+    "chineseName": "诱饵球",
+    "generation": 2,
+    "desc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
+    "chineseDesc": "钓鱼时用鱼竿钩住的口袋妖怪。",
+    "shortDesc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
+    "chineseShortDesc": "钓鱼时用鱼竿钩住的口袋妖怪。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 495,
+    "name": "Heavy Ball",
+    "chineseName": "沉重球",
+    "generation": 2,
+    "desc": "A Poke Ball for catching very heavy Pokemon.",
+    "chineseDesc": "一个用于捕捉非常重的口袋妖怪的口袋球。",
+    "shortDesc": "A Poke Ball for catching very heavy Pokemon.",
+    "chineseShortDesc": "一个用于捕捉非常重的口袋妖怪的口袋球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 496,
+    "name": "Love Ball",
+    "chineseName": "甜蜜球",
+    "generation": 2,
+    "desc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
+    "chineseDesc": "Poke Ball用于捕捉与你的口袋妖怪性别相反的口袋妖怪。",
+    "shortDesc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
+    "chineseShortDesc": "Poke Ball用于捕捉与你的口袋妖怪性别相反的口袋妖怪。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 497,
+    "name": "Friend Ball",
+    "chineseName": "友友球",
+    "generation": 2,
+    "desc": "A Poke Ball that makes caught Pokemon more friendly.",
+    "chineseDesc": "一个让抓到的口袋妖怪更友好的口袋球。",
+    "shortDesc": "A Poke Ball that makes caught Pokemon more friendly.",
+    "chineseShortDesc": "一个让抓到的口袋妖怪更友好的口袋球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 498,
+    "name": "Moon Ball",
+    "chineseName": "月亮球",
+    "generation": 2,
+    "desc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
+    "chineseDesc": "一个用于捕捉使用月亮石进化的口袋妖怪的口袋球。",
+    "shortDesc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
+    "chineseShortDesc": "一个用于捕捉使用月亮石进化的口袋妖怪的口袋球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 499,
+    "name": "Sport Ball",
+    "chineseName": "竞赛球",
+    "generation": 2,
+    "desc": "A special Poke Ball for the Bug-Catching Contest.",
+    "chineseDesc": "捕捉虫子比赛的特殊口袋球。",
+    "shortDesc": "A special Poke Ball for the Bug-Catching Contest.",
+    "chineseShortDesc": "捕捉虫子比赛的特殊口袋球。",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 500,
+    "name": "Park Ball",
+    "chineseName": "公园球",
+    "generation": 4,
+    "desc": "A special Poke Ball for the Pal Park.",
+    "chineseDesc": "为帕尔公园准备的特殊扑克。",
+    "shortDesc": "A special Poke Ball for the Pal Park.",
+    "chineseShortDesc": "为帕尔公园准备的特殊扑克。",
+    "isBerry": false,
+    "isNonstandard": "Unobtainable"
+  }
+]
